@@ -1,0 +1,8 @@
+Metodo,Tiempo (s),Complejidad,Observaciones
+Seleccion,0.828893,O(n²),Lento para datos grandes
+Burbuja,1.261140,O(n²),Lento para datos grandes
+Insercion,0.332880,O(n²),Lento para datos grandes
+ShellSort,0.004215,O(n²),Lento para datos grandes
+Radix,0.002999,O(nk),Rápido para enteros
+Mezcla,0.036824,O(n log n),Eficiente para cualquier entrada
+Quicksort,0.002286,O(n log n),El mejor rendimiento promedio

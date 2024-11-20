@@ -1,0 +1,9 @@
+﻿  Algoritmos.cpp
+C:\Users\Romin\Downloads\Algoritmo Y Estructuras de datos\Proyectos\Algoritmos\Algoritmos\Algoritmos.cpp(41,16): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Romin\Downloads\Algoritmo Y Estructuras de datos\Proyectos\Algoritmos\Algoritmos\Algoritmos.cpp(59,16): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Romin\Downloads\Algoritmo Y Estructuras de datos\Proyectos\Algoritmos\Algoritmos\Algoritmos.cpp(74,16): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Romin\Downloads\Algoritmo Y Estructuras de datos\Proyectos\Algoritmos\Algoritmos\Algoritmos.cpp(91,16): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Romin\Downloads\Algoritmo Y Estructuras de datos\Proyectos\Algoritmos\Algoritmos\Algoritmos.cpp(126,20): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Romin\Downloads\Algoritmo Y Estructuras de datos\Proyectos\Algoritmos\Algoritmos\Algoritmos.cpp(251,51): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Romin\Downloads\Algoritmo Y Estructuras de datos\Proyectos\Algoritmos\Algoritmos\Algoritmos.cpp(261,42): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Algoritmos.vcxproj -> C:\Users\Romin\Downloads\Algoritmo Y Estructuras de datos\Proyectos\Algoritmos\x64\Debug\Algoritmos.exe
